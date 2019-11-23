@@ -1,6 +1,6 @@
 # Survival-Shooter-VR
 
-Game developped with Unity2019.2, compatibility with HTC-vive.
+Mini-Game developped with Unity2019.2, compatibility with HTC-vive.
 
 To play the game:
 
