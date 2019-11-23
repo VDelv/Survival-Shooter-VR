@@ -2,6 +2,11 @@
 
 Game developped with Unity2019.2, compatibility with HTC-vive.
 
+To play the game:
+
+ * Download the project and open the "Survival Shooter VR.exe" file in "Survial Shooter VR" dir. (VR headset has to be plug).
+ * Download the project and upload it in Unity Hub with the correct version of Unity (compatibility has not been checked yet).
+
 The asset can be considered as a tutorial for VR handling of unity.
 
 Several assets have been used to developped the game: 
