@@ -7,6 +7,9 @@ To play the game:
  * Download the project and open the "Survival Shooter VR.exe" file in "Survial Shooter VR" dir. (VR headset has to be plug).
  * Download the project and upload it in Unity Hub with the correct version of Unity (compatibility has not been checked yet) with enabling VR.
 
+![maze_car_pinout_final](https://github.com/VDelv/Survival-Shooter-VR/blob/master/Survival%20Shooter%20VR/OnPlayScreen.png)
+
+
 The asset can be considered as a tutorial for VR handling of unity.
 
 Several assets have been used to developped the game: 
